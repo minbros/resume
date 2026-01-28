@@ -27,6 +27,7 @@
 Java, Spring Boot, Jnit5, TestContainer, PostgreSQL, JPA, Kafka, AWS, k8s
 
 - MSA 아키텍처를 적용해 결제와 알림 모듈 구현
+- 개발 팀장 역할 수행
 - Shared-Library를 이용해 로깅 AOP, Kafka 공용 설정 등 관리
 - 불필요한 Feign 기반의 통신을 개선해 Kafka 이벤트 기반 통신으로 변경하여 API 응답 속도 향상
 - Junit과 TestContainer를 이용해 실제 배포 환경과 유사한 통합 테스트 및 동시성 테스트 구현
